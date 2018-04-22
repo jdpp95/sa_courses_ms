@@ -17,3 +17,4 @@ services:
       - "4001:4001"
     depends_on:
       - courses-db
+      
